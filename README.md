@@ -1,5 +1,16 @@
 ## hi! i'm anushka
 
+cs undergrad at dtu
+love to build things
+
+
+full stack web dev, web3, app dev
+
+
+### 📫 Let’s Connect
+- 🌐 Portfolio: https://anushkavault.onrender.com  
+- 💼 LinkedIn: https://linkedin.com/in/anushka-532862299
+
 
 <!--
 **anushka312/anushka312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
