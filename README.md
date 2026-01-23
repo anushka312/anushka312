@@ -7,7 +7,7 @@ love to build things
 full stack web dev, web3, app dev
 
 
-### 📫 Let’s Connect
+###  find me on:
 
 <p align="left">
   <a href="https://anushkavault.onrender.com" target="_blank">
@@ -16,9 +16,9 @@ full stack web dev, web3, app dev
   <a href="https://www.linkedin.com/in/anushka-532862299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/alicia_m23/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/alicia_m23/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
+  </a> -->
   <a href="mailto:anushka031205@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
