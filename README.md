@@ -50,12 +50,13 @@ _i love building things and exploring new tech_
 <!-- <p align="center">💫 ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ 💫 ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐</p> -->
 
 <hr>
+
 ### stats 
 <div align="center">
   
 ![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushka312&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anushka312&theme=transparent)
+
 
 </div>
 
