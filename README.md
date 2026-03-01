@@ -52,11 +52,11 @@ _i love building things and exploring new tech_
 <hr>
 
 ### stats 
+
+
 <div align="center">
-  
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushka312&show_icons=true&theme=transparent)
 
-
+  <img src="https://streak-stats.demolab.com?user=anushka312&theme=radical"/>
 
 </div>
 
