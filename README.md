@@ -14,14 +14,12 @@ _i love building things and exploring new tech_
 
 
 ### interests ˙ . ꒷ 🍰 . 𖦹˙—
-» full stack web development  
-» web3 development  
+» full stack web development   
 » app development  
 
 ### current status ˖ ࣪ ꉂ🗯˙🫐⃟.꩜‹—
 𖦏 learning react native  
 𖦏 exploring deep learning  
-𖦏 studying distributed systems, message queues and microservices  
 
 ### skillset ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐
 
