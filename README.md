@@ -65,7 +65,7 @@ _i love building things and exploring new tech_
 ### find me on:
 
 <p align="left">
-  <a href="https://anushkavault.onrender.com" target="_blank">
+  <a href="https://nushportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anushka-532862299/" target="_blank">
